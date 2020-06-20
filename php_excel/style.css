@@ -1,0 +1,22 @@
+thead {
+    font-size: 24px;
+    color: crimson;
+}
+
+table {
+    border-spacing: 30px;
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+tr {
+    border-bottom: 1px solid black;
+}
+
+td{
+    margin: 10px;
+}
+
+body {
+    font-family: Arial;
+}
